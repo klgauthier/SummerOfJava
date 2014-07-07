@@ -1,11 +1,11 @@
 
 /**
- * Enumeration class Gender - write a description of the enum class here
+ * Enum class representing gender
  * 
- * @author (your name here)
- * @version (version number or date here)
+ * @author Kevin Gauthier
+ * @version 07.07.14
  */
 public enum Gender
 {
-    MALE, FEMALE
+    MALE, FEMALE, OTHER
 }
