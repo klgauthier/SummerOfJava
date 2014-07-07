@@ -7,9 +7,9 @@
  */
 public class KevinGauthier extends Person
 {
-    public KevinGauthier(String name, int age, Gender gen, String hairColor, String eyeColor)
+    public KevinGauthier()
     {
-        super(name, age, gen, hairColor, eyeColor); // pass parameters to base class
+        super("Kevin Gauthier", 21, Gender.MALE, "Brown", "Blue"); // pass parameters to base class
     }
     
     public String getSaying()

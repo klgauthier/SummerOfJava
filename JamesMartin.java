@@ -6,9 +6,9 @@
  */
 public class JamesMartin extends Person
 {
-    public JamesMartin(String name, int age, Gender gen, String hairColor, String eyeColor)
+    public JamesMartin()
     {
-        super(name,age,gen,hairColor,eyeColor);//Pass the parameters to the base class
+        super("James Martin", 21, Gender.MALE, "Brown", "idk");//Pass the parameters to the base class
     }
     
     public String getSaying()
