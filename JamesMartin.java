@@ -8,7 +8,7 @@ public class JamesMartin extends Person
 {
     public JamesMartin()
     {
-        super("James Martin", 21, Gender.MALE, "Brown", "idk");//Pass the parameters to the base class
+        super("James Martin", 21, Gender.MALE, "Brown", "Brown");//Pass the parameters to the base class
     }
     
     public String getSaying()

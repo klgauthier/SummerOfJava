@@ -9,7 +9,7 @@ public class KevinGauthier extends Person
 {
     public KevinGauthier()
     {
-        super("Kevin Gauthier", 21, Gender.MALE, “Blonde”, "Blue"); // pass parameters to base class
+        super("Kevin Gauthier", 21, Gender.MALE, "Blonde", "Blue"); // pass parameters to base class
     }
     
     public String getSaying()
