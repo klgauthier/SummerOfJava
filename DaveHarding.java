@@ -14,7 +14,6 @@ public class DaveHarding extends Person
     
     public String getSaying()
     {
-        return "The measure of a life is a measure of love and respect," + 
-                  "so hard to earn, so easily burned.";
+        return "Life is just a candle and a dream must give it flame";
     }
 }
