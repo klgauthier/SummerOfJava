@@ -9,12 +9,12 @@ public class KanghyeokLee extends Person
 {
     public KanghyeokLee()
     {
-        super("KangHyeok Lee", 40, Gender.MALE, "Black", "Brown"); // pass parameters to base class
+        super("Kanghyeok Lee", 40, Gender.MALE, "Black", "Brown"); // pass parameters to base class
     }
     
     public String getSaying()
     {
-        return "My wife, My kids, Frech & Salt water fish tank. Plactic model, Salsa dance, Dicasting Model, Basketball, Golf...."; 
+        return "My family, Fresh & Salt water tank, Plactic Model, Basket Ball, Salsa dance.... "; 
         // return personalized saying
     }
 }
