@@ -14,7 +14,7 @@ public class KanghyeokLee extends Person
     
     public String getSaying()
     {
-        return "My family, Fresh & Salt water tank, Plactic & Dicasting Model, Basket Ball, Salsa dance, Sun .... "; 
+        return "My family, Fresh & Salt water tank, Plactic & Dicasting Model, Basket Ball, Salsa dance, Sun, wine, beer, whiskey, Sake, Soju, Vodka, Rum, Cocktails .... "; 
         // return personalized saying
     }
 }
