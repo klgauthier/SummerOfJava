@@ -14,6 +14,6 @@ public class AnnuAbraham extends Person
     
     public String getSaying()
     {
-        return "Love God Love family!!";
+        return "Love God Love family Love JAVA HA HA!!";
     }
 }
