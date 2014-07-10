@@ -14,6 +14,6 @@ public class DawnCraigie extends Person
     
     public String getSaying()
     {
-        return "Women are like wine - they get better with age.";
+        return "Women are like wine - they get better with age."; // my saying
     }
 }
