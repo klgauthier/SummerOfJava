@@ -14,6 +14,7 @@ public class DaveHarding extends Person
     
     public String getSaying()
     {
-        return "Life is just a candle and a dream must give it flame";
+        return "You can choose from phantom fears and kindness that can kill." + 
+                "I will choose a path that's clear, I will choose freewill.";
     }
 }
