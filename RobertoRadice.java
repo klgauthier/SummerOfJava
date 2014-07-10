@@ -13,6 +13,6 @@ public class RobertoRadice extends Person
     
     public String getSaying()
     {
-        return "I am a rock ... something";//return saying
+        return "I am a rock ... something or other";//return saying
     }
 }
